@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">MindGate</string>
+    <string name="accessibility_service_label">MindGate অ্যাপ মনিটর</string>
+    <string name="accessibility_service_description">MindGate অ্যাপের সেশন টাইমার এবং গেট বার্তা সঠিকভাবে কাজ করতে এই অনুমতি প্রয়োজন।</string>
+</resources>
